@@ -1,10 +1,9 @@
-import requests, re, os, json
-from requests.exceptions import HTTPError
+import requests, re, os, json, random
 from pymongo import MongoClient
 from multiprocessing import Pool, Manager,Process
 
 # 范围 [date_start, date_end)
-date_start = "20160622"
+date_start = "20160302"
 date_end = "20180220"
 top = 10
 
@@ -116,7 +115,8 @@ def multi_progress(item, jja):
         tsize = save_pic(data, path)
 
     item['size'] = tsize
-    item['path'] = path
+    item['path'] = path if pic_exists(path) else path2
+    item['random'] = random.random()
     jja.append(item)
     if not tsize:
         print(path + ' download error!')
