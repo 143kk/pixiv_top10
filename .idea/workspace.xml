@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82f28b6d-e976-42c5-b6c8-44e94be97961" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/daily.sh" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pixivWithDate.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/daily.sh" afterPath="$PROJECT_DIR$/daily.sh" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,8 +40,8 @@
       <file leaf-file-name="daily.sh" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/daily.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+            <state relative-caret-position="120">
+              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -90,8 +88,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="881" />
-    <option name="y" value="205" />
+    <option name="x" value="337" />
+    <option name="y" value="301" />
     <option name="width" value="1400" />
     <option name="height" value="953" />
   </component>
@@ -227,7 +225,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="881" y="205" width="1400" height="953" extended-state="0" />
+    <frame x="337" y="301" width="1400" height="953" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -527,8 +525,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/daily.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        <state relative-caret-position="120">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding />
         </state>
       </provider>
